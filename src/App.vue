@@ -11,14 +11,14 @@ import "./styles/global.css";
 
 import Header from "./components/Header";
 import Home from "./pages/Home";
-import Footer from "./pages/Footer.vue";
+import Footer from "./components/Footer.vue";
 
 export default {
   name: "App",
   components: {
     Header,
     Home,
-    Footer
+    Footer,
   },
 };
 </script>

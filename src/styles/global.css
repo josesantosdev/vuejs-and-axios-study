@@ -22,9 +22,14 @@
 
   a{
       text-decoration: none;
-      transition: 0.2s;
+      transition: 0.2s opacity;
   }
 
   a:hover{
     opacity: 0.8;
+  }
+
+
+  .container{
+      width: 90%;
   }

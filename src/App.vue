@@ -4,6 +4,7 @@
 </template>
 
 <script>
+import './styles/global.css'
 
 export default {
   name: 'App',
@@ -13,7 +14,4 @@ export default {
 }
 </script>
 
-<style>
-#app {
-}
-</style>
+
